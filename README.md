@@ -1,8 +1,16 @@
 ## Deployed Version
+
 https://ecommerce-next-sanity-brown.vercel.app/
+
 use 4242 4242 4242 4242 -> 4/24 -> 424  in stripe card details.
-To add more products
+
+
+#To add more products
+
 https://ecommerce-my-market-place.sanity.studio/desk
+
+![image](https://github.com/waqar-hafeez-ahmed/ecommerce-next-sanity/assets/103100903/55d46b83-7b0f-455b-9492-82aa749604ec)
+
 
 
 
