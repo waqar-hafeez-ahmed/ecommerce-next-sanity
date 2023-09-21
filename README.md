@@ -1,3 +1,18 @@
+## Deployed Version
+https://ecommerce-next-sanity-brown.vercel.app/
+use 4242 4242 4242 4242 -> 4/24 -> 424  in stripe card details.
+To add more products
+https://ecommerce-my-market-place.sanity.studio/desk
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
